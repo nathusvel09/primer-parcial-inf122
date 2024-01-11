@@ -127,7 +127,7 @@ body {
 
 .card-container-por{
     display: flex;
-    border-radius: 5px;
+    border-radius: 5px; 
     justify-content: space-between;
     align-items: center;
     background-color: #171F26;
